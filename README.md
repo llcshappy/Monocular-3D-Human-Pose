@@ -12,8 +12,8 @@ This repository is the implementation for the work presented in:
 ### Dependencies
 >**[Tensorflow](https://www.tensorflow.org) >= 1.4.1<br>
 [Pytorch](https://pytorch.org/) >= 0.3.1<br>
-[Numpy] >= 1.14<br>
-[CV2] >= 3.4.1<br>**
+[Numpy] = 1.14.3<br>
+[CV2] = 3.4.1<br>**
 ### Dataset
 >**MPII<br>
 LSP<br>
