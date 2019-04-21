@@ -1,12 +1,17 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
 3D Human Pose Estimation https://arxiv.org/pdf/1904.05512.pdf
 
+## Dependencies
+Tensorflow >= 1.4.1
+Pytorch >= 0.3.1
+
 ## Dataset
 MPII<br>
 LSP<br>
 Unity<br>
 AIchallenger<br>
 
+## Demo
 <p align="center">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1480.jpg" width="200" title="img1">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/165.jpg" width="200" title="img2">
