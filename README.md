@@ -72,7 +72,8 @@ You can run the following code to see the quick demo of **our trained Baseline N
     
 
 
-## Demo
+## Visualization 
+
 <p align="center">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1480.jpg" width="200" title="img1">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/165.jpg" width="200" title="img2">
