@@ -5,7 +5,7 @@ Luyang Wang, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, [Jimmy 
 **Generalizing Monocular 3D Human Pose Estimation in the Wild([arXiv:1904.05512](https://arxiv.org/pdf/1904.05512.pdf))**
 
 <p align="center">
-  <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/stereo_copy_final.pdf" width="800" title="img1">
+  <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/3DGen.png" width="800" title="img1">
 </p>
 
 ### Dependencies
