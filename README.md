@@ -25,7 +25,7 @@ You can download our processed datasets in the list. We train the **3D Label Gen
 - [x] **Unity**
 
 ### Pre-trained Model
-We also provide a model pre-trained on 3D Label Generator and Baseline Network, available through google drive.
+We also provide a model pre-trained on 3D Label Generator and Baseline Network, available through [Baidu Cloud](https://pan.baidu.com/download).
 - [x] **[3D Label Generator]()**
 - [ ] **[Baseline Network]()**
 
