@@ -28,6 +28,12 @@ You can download our processed datasets in the list. We train the **3D Label Gen
 Clone this repository and download our processed datasets.  
 
     git clone https://github.com/llcshappy/Monocular-3D-Human-Pose.git
+    wget https://
+    wget https://
+    wget https://
+    wget https://
+    wget https://
+    wget https://
     
 ## Useage
 ### 3D Label Generator
