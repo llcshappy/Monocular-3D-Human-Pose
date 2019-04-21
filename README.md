@@ -88,7 +88,9 @@ You can run the following code to see the quick demo of **our trained Baseline N
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1971.jpg" width="200" title="img3">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1998.jpg" width="200" title="img4">
 </p>
+
 ## Citation
+
 @article{wang2019generalizing,
   title={Generalizing Monocular 3D Human Pose Estimation in the Wild},
   author={Wang, Luyang and Chen, Yan and Guo, Zhenhua and Qian, Keyuan and Lin, Mude and Li, Hongsheng and Ren, Jimmy S},
