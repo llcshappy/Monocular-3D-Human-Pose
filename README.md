@@ -12,8 +12,8 @@ This repository is the implementation for the work presented in:
 ### Dependencies
 >**[Tensorflow](https://www.tensorflow.org) >= 1.4.1<br>
 [Pytorch](https://pytorch.org/) >= 0.3.1<br>
-[Numpy] = 1.14.3<br>
-[CV2] = 3.4.1<br>**
+Numpy = 1.14.3<br>
+CV2 = 3.4.1<br>**
 
 ### Dataset
 You can download our processed datasets in the list. We train the **3D Label Generator** with Human3.6M dataset and Unity dataset. In addition, We train the **Baseline Network** with MPII/LSP/AIChallenger/Human3.6M datasets.
