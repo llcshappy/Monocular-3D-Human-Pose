@@ -1,5 +1,7 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
 3D Human Pose Estimation
+
+<a class="git-link" href="https://arxiv.org/pdf/1904.05512.pdf"></a>
 <p align="center">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1480.jpg" width="200" title="img1">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/165.jpg" width="200" title="img2">
