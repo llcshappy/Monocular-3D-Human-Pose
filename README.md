@@ -38,7 +38,16 @@ Clone this repository and download our processed datasets.
 ## Useage
 ### 3D Label Generator
 
+    cd 3DLabelGen
+    
+#### Training
+
 ### Baseline Network
+
+    cd Baseline
+
+### Training
+
 
 ## Demo
 <p align="center">
