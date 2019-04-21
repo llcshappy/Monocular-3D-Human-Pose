@@ -17,11 +17,11 @@ This repository is the implementation for the work presented in:
 ### Dataset
 You can download our processed datasets in the list. We train the **3D Label Generator** with Human3.6M dataset and Unity dataset. In addition, We train the **Baseline Network** with MPII/LSP/AIChallenger/Human3.6M datasets.
 
-- [x] **MPII**
+- [] **MPII**
 - [x] **LSP**
-- [x] **AIchallenger**
-- [x] **Human3.6M**
-- [x] **Unity**
+- [] **AIChallenger**
+- [] **Human3.6M**
+- [] **Unity**
 
 
 ## Installation
@@ -47,5 +47,4 @@ You can download our processed datasets in the list. We train the **3D Label Gen
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1998.jpg" width="200" title="img4">
 </p>
 
-## Video
 
