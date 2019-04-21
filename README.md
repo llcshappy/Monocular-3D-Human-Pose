@@ -38,19 +38,35 @@ Clone this repository and download our processed datasets.
 ## Useage
 ### 3D Label Generator
 The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow. After install Anaconda and Tensorflow:
-1. Open the 3DLabelGen folder:
-
+#### Step 1. Open the 3DLabelGen folder:
+    
     cd 3DLabelGen
     
-#### Training
+#### Step2. Training
+
+    python3 xxx.py
+
+#### Quick Demo
+You can run the following code to see the quick demo of the **3D Label Generator**.
+
+    python3 xxx.py
+    
 
 ### Baseline Network
 The code of Baseline Network was tested with Anaconda Python3.6 and Pytorch0.4.1. After install Anaconda and Pytorch:
-1. Open the Baseline folder:
+#### Step 1. Open the Baseline folder:
 
     cd Baseline
 
-### Training
+#### Step2. Training
+
+    python3 xxx.py
+
+#### Quick Demo
+You can run the following code to see the quick demo of **our trained Baseline Network**.
+
+    python3 xxx.py
+    
 
 
 ## Demo
