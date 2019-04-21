@@ -34,12 +34,6 @@ We also provide a model pre-trained on 3D Label Generator and Baseline Network, 
 Clone this repository and download our processed datasets.  
 
     git clone https://github.com/llcshappy/Monocular-3D-Human-Pose.git
-    wget https://
-    wget https://
-    wget https://
-    wget https://
-    wget https://
-    wget https://
     
 ## Useage
 ### 3D Label Generator
