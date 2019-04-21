@@ -1,5 +1,6 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
-3D Human Pose Estimation https://arxiv.org/pdf/1904.05512.pdf
+This repository is the implementation for the work presented in:<br>
+Luyang Wang, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, Jimmy S. Ren, [Generalizing Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/pdf/1904.05512.pdf)
 
 ### Dependencies
 [Tensorflow](https://www.tensorflow.org) >= 1.4.1<br>
@@ -10,6 +11,11 @@ MPII<br>
 LSP<br>
 AIchallenger<br>
 Unity<br>
+
+## Installation
+
+## Useage
+
 
 ## Demo
 <p align="center">
