@@ -22,7 +22,7 @@ This repository is the implementation for the work presented in:
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Qt</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Android</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> C#</li>
-
+</ul>
 ## Installation
 
 ## Useage
