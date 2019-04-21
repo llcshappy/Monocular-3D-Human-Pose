@@ -15,11 +15,12 @@ This repository is the implementation for the work presented in:
 [Numpy] = 1.14.3<br>
 [CV2] = 3.4.1<br>**
 ### Dataset
-You can download our processed datasets in the list. We train the 3D Label Generator with Human3.6M dataset and Unity dataset. We train the Baseline Network with all the datasets in the list.
+You can download our processed datasets in the list. We train the 3D Label Generator with Human3.6M dataset and Unity dataset. In addition, We train the Baseline Network with MPII/LSP/AIChallenger/Human3.6M datasets.
 
 - [x] **MPII**
 - [x] **LSP**
 - [x] **AIchallenger**
+- [x] **Human3.6M**
 - [x] **Unity**
 
 
