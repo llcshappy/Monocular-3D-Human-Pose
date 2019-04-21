@@ -3,7 +3,7 @@ This repository is the implementation for the work presented in:
 
 >**Luyang Wang**, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, [Jimmy S. Ren](http://www.jimmyren.com/),
 **Generalizing Monocular 3D Human Pose Estimation in the Wild([arXiv:1904.05512](https://arxiv.org/pdf/1904.05512.pdf))  
-[Watch Our Video](https://www.youtube.com)**
+[You might be interested in our video demo](https://www.youtube.com)**
 
 <p align="center">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/3DGen.png" width="800" title="img1">
