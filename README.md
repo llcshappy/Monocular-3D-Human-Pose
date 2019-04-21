@@ -1,6 +1,10 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
-This repository is the implementation for the work presented in:<br>
-Luyang Wang, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, [Jimmy S. Ren](http://www.jimmyren.com/), [Generalizing Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/pdf/1904.05512.pdf)
+This repository is the implementation for the work presented in:  
+
+Luyang Wang, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, [Jimmy S. Ren](http://www.jimmyren.com/),
+==================================
+[Generalizing Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/pdf/1904.05512.pdf)
+----------------------------------
 
 ### Dependencies
 [Tensorflow](https://www.tensorflow.org) >= 1.4.1<br>
@@ -32,4 +36,6 @@ Unity<br>
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1971.jpg" width="200" title="img3">
   <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1998.jpg" width="200" title="img4">
 </p>
+
+## Video
 
