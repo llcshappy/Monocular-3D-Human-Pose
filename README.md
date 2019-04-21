@@ -15,10 +15,10 @@ This repository is the implementation for the work presented in:
 [Numpy] = 1.14.3<br>
 [CV2] = 3.4.1<br>**
 ### Dataset
->**- [x] MPII<br>
-- [x] LSP<br>
-- [x] AIchallenger<br>
-- [x] Unity<br>**
+- [x] **MPII . 
+- [x] **LSP . 
+- [x] **AIchallenger . 
+- [x] **Unity . 
 
 ## Installation
 
