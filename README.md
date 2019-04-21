@@ -4,6 +4,10 @@ This repository is the implementation for the work presented in:
 Luyang Wang, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, [Jimmy S. Ren](http://www.jimmyren.com/),
 **Generalizing Monocular 3D Human Pose Estimation in the Wild([arXiv:1904.05512](https://arxiv.org/pdf/1904.05512.pdf))**
 
+<p align="center">
+  <img src="https://github.com/llcshappy/Give-3D-Label-in-the-Wild/blob/master/demo/1480.jpg" width="200" title="img1">
+</p>
+
 ### Dependencies
 [Tensorflow](https://www.tensorflow.org) >= 1.4.1<br>
 [Pytorch](https://pytorch.org/) >= 0.3.1<br>
