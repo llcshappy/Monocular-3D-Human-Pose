@@ -91,11 +91,11 @@ You can run the following code to see the quick demo of **our trained Baseline N
 
 ## Citation
 
-@article{wang2019generalizing,
-  title={Generalizing Monocular 3D Human Pose Estimation in the Wild},
-  author={Wang, Luyang and Chen, Yan and Guo, Zhenhua and Qian, Keyuan and Lin, Mude and Li, Hongsheng and Ren, Jimmy S},
-  journal={arXiv preprint arXiv:1904.05512},
-  year={2019}
-}
+@article{wang2019generalizing,<br>
+  title={Generalizing Monocular 3D Human Pose Estimation in the Wild},<br>
+  author={Wang, Luyang and Chen, Yan and Guo, Zhenhua and Qian, Keyuan and Lin, Mude and Li, Hongsheng and Ren, Jimmy S},<br>
+  journal={arXiv preprint arXiv:1904.05512},<br>
+  year={2019}<br>
+}<br>
 
 
