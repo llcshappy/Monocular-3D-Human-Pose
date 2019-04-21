@@ -1,15 +1,15 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
 3D Human Pose Estimation https://arxiv.org/pdf/1904.05512.pdf
 
-## Dependencies
-Tensorflow >= 1.4.1
-Pytorch >= 0.3.1
+### Dependencies
+Tensorflow >= 1.4.1<br>
+Pytorch >= 0.3.1<br>
 
-## Dataset
+### Dataset
 MPII<br>
 LSP<br>
-Unity<br>
 AIchallenger<br>
+Unity<br>
 
 ## Demo
 <p align="center">
