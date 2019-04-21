@@ -27,7 +27,7 @@ You can download our processed datasets in the list. We train the **3D Label Gen
 ### Pre-trained Model
 We also provide a model pre-trained on 3D Label Generator and Baseline Network, available through google drive.
 - [x] **[3D Label Generator]()**
-- [x] **[Baseline Network]()**
+- [ ] **[Baseline Network]()**
 
 
 ## Installation
