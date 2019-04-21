@@ -2,8 +2,8 @@
 3D Human Pose Estimation https://arxiv.org/pdf/1904.05512.pdf
 
 ### Dependencies
-Tensorflow >= 1.4.1<br>
-Pytorch >= 0.3.1<br>
+[Tensorflow](https://www.tensorflow.org) >= 1.4.1<br>
+[Pytorch](https://pytorch.org/) >= 0.3.1<br>
 
 ### Dataset
 MPII<br>
