@@ -17,15 +17,17 @@ This repository is the implementation for the work presented in:
 ### Dataset
 You can download our processed datasets in the list. We train the **3D Label Generator** with Human3.6M dataset and Unity dataset. In addition, We train the **Baseline Network** with MPII/LSP/AIChallenger/Human3.6M datasets.
 
-- [] **MPII**
+- [x] **MPII**
 - [x] **LSP**
-- [] **AIChallenger**
-- [] **Human3.6M**
-- [] **Unity**
+- [x] **AIChallenger**
+- [x] **Human3.6M**
+- [x] **Unity**
 
 
 ## Installation
-
+Clone this repository and download our processed datasets.
+    git clone 
+    
 ## Useage
 ### 3D Label Generator
 
