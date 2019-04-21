@@ -1,7 +1,7 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
 This repository is the implementation of the work presented in:  
 
->**Luyang Wang**, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, [Jimmy S. Ren](http://www.jimmyren.com/),
+>**Luyang Wang**, Yan Chen, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, **[Jimmy S. Ren](http://www.jimmyren.com/)**,
 **Generalizing Monocular 3D Human Pose Estimation in the Wild([arXiv:1904.05512](https://arxiv.org/pdf/1904.05512.pdf))  
 [Watch Our Video on YouTube.](https://youtu.be/bGpP_S5fVWc)**
 
