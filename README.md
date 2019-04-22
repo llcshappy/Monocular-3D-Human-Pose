@@ -24,7 +24,7 @@ You can download our processed datasets in the list. We train the **3D Label Gen
 - [x] **[MPII](https://drive.google.com/open?id=1joCbigfr9QbpTuvP6cklZOpW2lUR0Qsf)**
 - [x] **[LSP](https://drive.google.com/open?id=1joCbigfr9QbpTuvP6cklZOpW2lUR0Qsf)**
 - [ ] **AIChallenger**
-- [ ] **Human3.6M**
+- [x] **[Human3.6M](https://drive.google.com/open?id=1NEevs6Z_HHnuQ3ikSPMd_kj-2VTm3DH5)**
 - [x] **[Unity](https://drive.google.com/open?id=1wp2Ba9X4jfWXugdaZE3AU_i2WLKy8bjv)**
 
 ### Pre-trained Model
