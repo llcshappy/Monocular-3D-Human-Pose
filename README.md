@@ -39,6 +39,7 @@ Clone this repository and download our processed datasets.
     git clone https://github.com/llcshappy/Monocular-3D-Human-Pose.git
     
 ## Useage
+
 ### 3D Label Generator
 The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow. After install Anaconda and Tensorflow:
 #### Step 1. Open the 3DLabelGen folder:
@@ -47,12 +48,12 @@ The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow
     
 #### Step2. Training
 
-    python3 xxx.py
+    ./train.sh
 
 #### Quick Demo
 You can run the following code to see the quick demo of the **3D Label Generator**.
 
-    python3 xxx.py
+    ./demo.sh
     
 
 ### Baseline Network
@@ -63,12 +64,12 @@ The code of Baseline Network was tested with Anaconda Python3.6 and Pytorch0.4.1
 
 #### Step2. Training
 
-    python3 xxx.py
+    ./train.sh
 
 #### Quick Demo
 You can run the following code to see the quick demo of **our trained Baseline Network**.
 
-    python3 xxx.py
+    ./demo.sh
     
 
 
