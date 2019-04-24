@@ -69,7 +69,7 @@ for index1 in range(number_start,number_final):
 			
 			o_loss=net_loss_ave- ser_loss_ave
 			print "number: %d , net_loss_ave is %f , ser_loss_ave is %f ,loss_net is %f ,loss_ser is %f" %(inx+ number_start, net_loss_ave,ser_loss_ave,net_loss_final/((inx-1)/25+1),ser_loss_final/((inx-1)/25+1) )
-			print 85*'_'
+			
 
 
 def load_pose(isTrain, path，action):

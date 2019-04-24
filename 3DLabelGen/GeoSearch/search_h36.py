@@ -103,9 +103,7 @@ for index_1 in range(number_start,number_final-25 ):
 	ser_loss_final = ser_loss_final + ser_loss_ave
 	
 	print ("number: %d , net_loss_ave is %f , ser_loss_ave is %f ,loss_net is %f ,loss_ser is %f" %(inx + number_start, net_loss_ave, ser_loss_ave, net_loss_final / (index_1 + 1), ser_loss_final / (index_1 + 1) ))
-	print (85*'_')
 print ('finsh:%s'%action)
-print (30*'=')
 
 
 
