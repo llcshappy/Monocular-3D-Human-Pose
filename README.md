@@ -19,7 +19,7 @@ Numpy = 1.14.3<br>
 CV2 = 3.4.1<br>**
 
 ### Dataset
-You can download our processed datasets in the list. We train the **3D Label Generator** with ***Human3.6M dataset and Unity dataset***. In addition, We train the **Baseline Network** with ***MPII/LSP/AIChallenger/Human3.6M datasets***. Note that we provided the ***MPII/LSP/AIChallenger/Human3.6M datasets with high-quality 3D labels***, available through **Google Drive**. Note that ***AIChallenger1 and AIChallenger2*** denote different crop methods.
+You can download our processed datasets in the list. We train the **3D Label Generator** with ***Human3.6M dataset and Unity dataset***. In addition, We train the **Baseline Network** with ***MPII/LSP/AIChallenger/Human3.6M datasets***. Note that we provided the ***MPII/LSP/AIChallenger/Human3.6M datasets with high-quality 3D labels***, available through **Google Drive**. 
 
 > - [x] **[MPII](https://drive.google.com/open?id=1joCbigfr9QbpTuvP6cklZOpW2lUR0Qsf)**
 > - [x] **[LSP](https://drive.google.com/open?id=1joCbigfr9QbpTuvP6cklZOpW2lUR0Qsf)**
@@ -53,12 +53,12 @@ The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow
 #### Step3. Training 3D Pose Reconstruction Subnetwork
 
 #### Step4. Geometric Search Scheme 
-See more details in our paper. Please input the action in script 'search_h36m.py'
+>See more details of the geometric search scheme in our paper. Please input the action in script 'search_h36m.py'
     
     # Input the action here
     action = 'WalkTogether'
     
-Then run this script.
+>Then run this script.
     
     python2 search_h36m.py
     
