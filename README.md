@@ -44,13 +44,22 @@ Clone this repository and download our processed datasets.
 The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow. After install Anaconda and Tensorflow:
 #### Step 1. Open the 3DLabelGen folder:
     
-    cd 3DLabelGen
+    cd 3DLabelGen/
     
 #### Step2. Training Stereoscopic View Synthesis Subnetwork 
-
+>You need to generate the right-view 2D pose.
     
+    python2 gen_right.py
+    
+>Training 
 
+    ./left2right.sh
+    
 #### Step3. Training 3D Pose Reconstruction Subnetwork
+
+>Training 
+    
+    ./3DPose.sh
 
 #### Step4. Geometric Search Scheme 
 >See more details of the geometric search scheme in our paper. Please input the action in script 'search_h36m.py'
