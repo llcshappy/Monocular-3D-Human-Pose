@@ -54,8 +54,10 @@ The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow
 
 #### Step4. Geometric Search Scheme 
 See more details in our paper. Please input the action in script 'search_h36m.py'
-    # Input the action
+    
+    # Input the action here
     action = 'WalkTogether'
+    
 Then run this script.
     
     python2 search_h36m.py
