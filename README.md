@@ -51,13 +51,13 @@ The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow
     
     python2 gen_right.py
     
->Training 
+>Train the subnetwork
 
     ./left2right.sh
     
 #### Step3. Training 3D Pose Reconstruction Subnetwork
 
->Training 
+>Train the subnetwork
     
     ./3DPose.sh
 
