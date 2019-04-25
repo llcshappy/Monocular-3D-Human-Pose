@@ -46,9 +46,20 @@ The code of 3D Label Generator was tested with Anaconda Python3.6 and Tensorflow
     
     cd 3DLabelGen
     
-#### Step2. Training
+#### Step2. Training Stereoscopic View Synthesis Subnetwork 
 
-    ./train.sh
+    
+
+#### Step3. Training 3D Pose Reconstruction Subnetwork
+
+#### Step4. Geometric Search Scheme 
+See more details in our paper. Please input the action in script 'search_h36m.py'
+    # Input the action
+    action = 'WalkTogether'
+Then run this script.
+    
+    python2 search_h36m.py
+    
 
 #### Quick Demo
 You can run the following code to see the quick demo of the **3D Label Generator**.
