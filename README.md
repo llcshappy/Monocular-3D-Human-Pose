@@ -1,6 +1,6 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
 
-**New video demo will be released soon!**
+**Code and New video demo will be released soon!**
 
 This repository is the implementation of the work presented in:  
 
