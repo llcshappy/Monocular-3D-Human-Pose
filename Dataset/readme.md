@@ -39,7 +39,7 @@ Download the 2D-3D.tar.gz
 
     tar -zxvf 2D-3D.tar.gz
     
-**2D-3D**
+**2D-3D**  
 |---H36m  
 |-------train  
 |-------test  
