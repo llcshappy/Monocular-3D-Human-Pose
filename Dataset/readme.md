@@ -8,10 +8,9 @@ Download the MPII_LSP.tar.gz
     
     tar -zxvf MPII_LSP.tar.gz
 
-MPII_LSP  
-|--- wild.npy: Filename + 2D key-points + 3D key-points  
-|--- images: RGB images  
-The number of MPII_LSP dataset: 9131  
+MPII_LSP: 9131 RGB Images  
+|--- wild.npy: Filename + 2D key-points + 3D key-points    
+|--- images: RGB images   
 
 ### 2.Human3.6M dataset
 
