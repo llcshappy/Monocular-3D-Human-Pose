@@ -26,6 +26,10 @@ You can download our processed datasets in the list. We train the **3D Label Gen
 > - [x] **[AIChallenger](https://drive.google.com/drive/folders/1sXa6zI-2Hv8337Ur0Njfqwgzo8gjL0K4?usp=sharing)**
 > - [x] **[Human3.6M](https://drive.google.com/open?id=1NEevs6Z_HHnuQ3ikSPMd_kj-2VTm3DH5)**
 > - [x] **[Unity](https://drive.google.com/open?id=1wp2Ba9X4jfWXugdaZE3AU_i2WLKy8bjv)**
+#### Guidelines
+Download the datasets from the url. All the compressed files suffixes are ***tar.gz***.
+
+    tar -zxvf xxx.tar.gz
 
 ### Pre-trained Model
 We also provide a model pre-trained on 3D Label Generator and Baseline Network, available through [Baidu Cloud](https://pan.baidu.com/download).
