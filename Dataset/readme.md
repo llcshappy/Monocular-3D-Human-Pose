@@ -28,7 +28,7 @@ Download the H36M-images.tar.gz
 |---annot_train.h5: Training Label  
 |---annot_val.h5: Validation Label  
 
-More details in [Human3.6M](http://vision.imar.ro/human3.6m/description.php)  
+More details in [Human3.6M](http://vision.imar.ro/human3.6m/description.php). 
 ### 3.AIChallenger 3D dataset
 
 
