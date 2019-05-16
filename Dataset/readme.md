@@ -10,7 +10,7 @@ Download the MPII_LSP.tar.gz
 
 **MPII_LSP: 9131 RGB Images**      
 |--- wild.npy: Label (Filename + 2D Key-Points + 3D Key-Points)        
-|--- images: RGB Images **   
+|--- images: RGB Images    
 
 ### 2.Human3.6M dataset
 
