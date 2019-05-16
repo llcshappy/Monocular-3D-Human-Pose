@@ -31,7 +31,7 @@ Download the datasets. All the compressed files suffixes are ***tar.gz***.
 
     tar -zxvf xxx.tar.gz
     
-
+See more details [here](https://github.com/llcshappy/Monocular-3D-Human-Pose/blob/master/Dataset/readme.md)
 ### Pre-trained Model
 We also provide a model pre-trained on 3D Label Generator and Baseline Network, available through [Baidu Cloud](https://pan.baidu.com/download).
 - [ ] **[3D Label Generator]()**
