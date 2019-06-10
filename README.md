@@ -1,7 +1,5 @@
 # Generalizing Monocular 3D Human Pose Estimation in the Wild
 
-**Code and New video demo will be released soon!**
-
 This repository is the implementation of the work presented in:  
 
 >**Luyang Wang, Yan Chen**, Zhenhua Guo, Keyuan Qian, Mude Lin, Hongsheng Li, **[Jimmy S. Ren](http://www.jimmyren.com/)**,
@@ -34,8 +32,7 @@ Download the datasets. All the compressed files suffixes are ***tar.gz***.
 See more details [here](https://github.com/llcshappy/Monocular-3D-Human-Pose/blob/master/Dataset/readme.md).
 ### Pre-trained Model
 We also provide a model pre-trained on 3D Label Generator and Baseline Network, available through [Baidu Cloud](https://pan.baidu.com/download).
-- [ ] **[3D Label Generator]()**
-- [ ] **[Baseline Network]()**
+- [x] **[3D Label Generator]()**
 
 
 ## Installation
